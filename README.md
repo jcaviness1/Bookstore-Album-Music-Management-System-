@@ -1,8 +1,4 @@
 # Bookstore-Album-Music-Management-System-
-I'm learning how to use Golang
-
-
-
 This project can be used as either a bookstore/music/album management system. 
 
 Created using Visual Studio Code, Golang programming language and MySql database. 
